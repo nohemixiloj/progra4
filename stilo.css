@@ -1,0 +1,50 @@
+*{
+	margin: 4;
+	padding: 4;
+	box-sizing: border-box;
+	background-color: #ffe1f9;
+}
+
+.infopersonal{
+	background-color: #ff7d86 ;
+	padding: 12px;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.infopersonal1{
+	background-color:#ff7d86;
+	padding: 12px;
+	width: 80%;
+	margin: 0 auto;
+}
+
+.contacto1{
+	background-color:#9167a9;
+	padding: 12px;
+	width: 80%;
+	margin: 0 auto;
+}
+
+
+.incio > li> a{
+	display: block;
+	padding: 15px 20px;
+	color: #d89c0a;
+	font-family: ´open sans´;
+	text-decoration: none;
+}
+.inicio li a:hover{
+	color: #ce7d35;
+	transition: all .3s;
+}
+
+.inicio> li{
+	/*position: relative;*/
+	display: inline-block;
+}
+.contenido{
+	background-color:#ff9ba2;
+	padding: 5px;
+	border-radius: 20px;
+	font-weight: bold;
